@@ -1,0 +1,15 @@
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+
+#subtitle {
+  font-size: 20px;
+  color: gray;
+}
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+  }
